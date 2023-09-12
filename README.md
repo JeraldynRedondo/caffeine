@@ -14,7 +14,7 @@ Caffeine is a [high performance][benchmarks], [near optimal][efficiency] caching
 details, see our [user's guide][users-guide] and browse the [API docs][javadoc] for the latest
 release.
 
-### Cache
+### Cache HOLA!
 
 Caffeine provides an in-memory cache using a Google Guava inspired API. The improvements draw on our
 experience designing [Guava's cache][guava-cache] and [ConcurrentLinkedHashMap][clhm].
